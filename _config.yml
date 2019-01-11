@@ -25,7 +25,7 @@ repository: ithena/collected
 
 # Build settings
 markdown: kramdown
-remote_theme: joebuhlig/jekyll-theme-collected
+remote_theme: ithena/jekyll-theme-collected
 permalink: /:year/:month/:day/:title
 show_post_dates: false
 plugins:

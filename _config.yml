@@ -19,9 +19,9 @@ owner_name: Ruben
 description: >- # this means to ignore newlines until "baseurl:"
   My online commons book.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://connected.the-ch.in" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://the-ch.in/collected" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ithena
-repository: ithena/collected.the-ch.in
+repository: ithena/collected
 
 # Build settings
 markdown: kramdown
